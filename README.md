@@ -4,7 +4,7 @@ All questions that is still public on Stack Overflow are listed here, including 
 
 ## What's this reposutory for?
 
-I want to teach everyone using Stack Overflow, and I also want to moderate the titles of the questions. I'm mostly active on older questions, so I'm starting there.
+I want to teach everyone using Stack Overflow, and I also want to moderate the content of the questions, including grammar, proper style, and formatting. I'm mostly active on older questions, so I'm starting there.
 
 ## What does this repository contain?
 
